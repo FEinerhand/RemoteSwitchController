@@ -3,7 +3,9 @@
 In this project we connect a XBox Pro Controller to a Nintendo Switch that can be anywhere in the world.
 To accomblish this we wrote a Client and Server to Stream the Controller data from one PC to another one that gives this data to a micocontroller to simulate a Ninendo Switch Pro Controller.
 
+## A Huge Thanks
 
+Special Thanks to [This](https://github.com/dornbirndevelops/nintendo-switch-controller-mcu "This") Project. That saved us so much time. Please check them out and leave them a star for thier work.
 
 ## Why
 
@@ -20,5 +22,9 @@ So we decided to Code this project together to play together on my Nintendo Swit
 + As a mapper for using a keyboard and mouse on the Nintendo Switch
 + Compatibility for other Controllers.
 + A Custom PCB for the controller simulation
+
+## The assembled prototype for the microcontroller simulateing the Nintendo Switch Pro Controller
+
+![ControllerSimulator](https://github.com/FEinerhand/RemoteSwitchController/blob/main/ControllerSimulator.jpeg?raw=true "ControllerSimulator")
 
 
